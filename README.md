@@ -1,2 +1,2 @@
-# mmm-discord-bot
+# mr mayo man
 a useless bot for Discord
